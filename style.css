@@ -1,1 +1,9 @@
 /* YOUR STYLES HERE */
+.signature{
+    color: #ffdb6d;
+    text-align: center;
+    border: 3px solid;
+    border-color: #ffdb6d;
+    padding: 1rem;
+    background-color: #1d2531;
+}
